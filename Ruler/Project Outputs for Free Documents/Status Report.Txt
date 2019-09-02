@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Adafruit PCB Reference Ruler.PcbDoc]
+   Generated File[Adafruit PCB Reference Ruler.TXT]
+   Generated File[Adafruit PCB Reference Ruler.LDP]
+   Generated File[Adafruit PCB Reference Ruler.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:42:30 AM On 9/2/2019

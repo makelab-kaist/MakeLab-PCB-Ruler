@@ -1,3 +1,11 @@
+# Modified version of the AdaFruit PCB ruler with MAKinteract logo for lab usage or promotion (non-commercial)
+
+Following the Creative Commons Attribution, Share-Alike license (https://creativecommons.org/licenses/by-sa/3.0/) we report here a list of changes:
+- Used Altium file format
+- Silk screen for most components has been re-drawn. Some alignments were necessary after the porting from Eagle
+- We added the MAKinteract logo and URL
+
+
 # PCB for the Adafruit PCB Ruler
 
 Format is EagleCAD schematic and board layout
