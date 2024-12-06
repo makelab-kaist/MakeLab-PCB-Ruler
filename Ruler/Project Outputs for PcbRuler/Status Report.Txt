@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [PcbRuler.PcbDoc]
+   Generated File[PcbRuler.TXT]
+   Generated File[PcbRuler.LDP]
+   Generated File[PcbRuler.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:14:15 PM On 12/6/2024
